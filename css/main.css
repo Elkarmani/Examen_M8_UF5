@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 2fr;
     grid-template-rows: 7vh 10vh 30vh 10vh 10vh;
+    background-color: black;
 }
 
 #container .titulo1{
@@ -42,4 +43,5 @@
     border: 2px solid black;
     background-color: rgb(101, 223, 231);
     text-align: center;
+    color: black;
 }
